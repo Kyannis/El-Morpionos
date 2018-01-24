@@ -1,0 +1,5 @@
+﻿  El_Morpionos.cpp
+e:\cefim\c++\el_morpionos\el_morpionos\el_morpionos.cpp(305): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+e:\cefim\c++\el_morpionos\el_morpionos\el_morpionos.cpp(380): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+e:\cefim\c++\el_morpionos\el_morpionos\el_morpionos.cpp(195): warning C4715: 'obtenirIndiceTableauViaCoordonneConcatene' : les chemins de contrôle ne retournent pas tous une valeur
+  El_Morpionos.vcxproj -> E:\CEFIM\C++\El_Morpionos\Debug\El_Morpionos.exe
